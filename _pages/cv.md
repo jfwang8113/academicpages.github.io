@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemistry, Peking University, Beijing, 2004
+* Ph.D in Bioinformatics and Computational Biology, Shanghai Institutes for Biological Sciences, CAS, Shanghai, 2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2009 - 2012: Assistant Professor
+  * Key Laboratory of Systems Biomedicine (Ministry of Education) 
+  * Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University, China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013 - present: Associate Professor
+  * Key Laboratory of Systems Biomedicine (Ministry of Education)
+  * Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University, China
+
+* 2014 - 2016: Visiting Scholar
+  * California Institute for Quantitative Biosciences (QB3)
+  * University of California at Berkeley, USA
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* SJTU SMC Yong Scientist Award C (2012)
+* SJTU SMC Yong Scientist Award B (2014)
+* UC Berkeley Tang Distinguished Scholar (2014)
 
 Publications
 ======
@@ -52,8 +50,4 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> 
